@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# OMDb-search-react-hanze
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Followed the [Redux](https://www.udemy.com/react-redux/) tutorial and build on from that to finish the homework assignment.
 
 ### Getting Started
 
